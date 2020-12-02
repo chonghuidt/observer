@@ -9,7 +9,7 @@ import java.util.Observable;
  * @Date: 2020/12/1 10:48
  */
 public class StationBuilt extends Observable {
-    private PlaceVo placeVo;
+//    private PlaceVo placeVo;
 
     public StationBuilt() {
     }
